@@ -18,6 +18,8 @@ searchInputEl.addEventListener('blur', () => {
 
 
 
+// 뱃지, totop 동작// 
+
 const badgeEl = document.querySelector('header .badges');
 const toTopEl = document.querySelector('#to-top');
 
